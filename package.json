@@ -1,0 +1,32 @@
+{
+  "name": "hackerbay-frontend-task",
+  "version": "1.0.0",
+  "description": "Hackerbay interview frontend task",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirakoff/hackerbay-frontend-task.git"
+  },
+  "author": "Daniel Sirakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirakoff/hackerbay-frontend-task/issues"
+  },
+  "homepage": "https://github.com/sirakoff/hackerbay-frontend-task#readme",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "^2.1.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
